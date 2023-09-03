@@ -1,6 +1,6 @@
 ### Hi there, I'm Alan Liñan  :beers:<br>
 
-:eye: Working @Northrop Grumman as an ELectronics Engineer<br>
+:eye: Working @Northrop Grumman as an Electronics Engineer<br>
 :brain:Electrical engineering master's student @SDSU, with a focus on embedded systems<br><hr>
 <strong>Interests:</strong><br>
 <ul>
